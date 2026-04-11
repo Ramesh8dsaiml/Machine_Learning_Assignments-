@@ -11,3 +11,8 @@
 
 # Ensemble Learning | Assignmen_5
 
+# Boosting_Techniques___Assignment_6
+
+# KNN_&_PCA___Assignment_7
+
+# Clustering___Assignment_8
