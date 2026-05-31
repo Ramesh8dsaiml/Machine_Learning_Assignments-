@@ -1,18 +1,18 @@
-# Machine_Learning_Assignments-
+## Machine_Learning_Assignments-
 
-# Regression & Its Evaluation | Assignment 1 :
+##Regression & Its Evaluation | Assignment 1 :
 
-# Supervised Learning: Regression  Models and Performance Metrics | Assigenment 2:
+## Supervised Learning: Regression  Models and Performance Metrics | Assigenment 2:
 
-# Decision Tree | Assignmen_3
+## Decision Tree | Assignmen_3
 
-# /Supervised_Classification_Decision_Trees,_SVM,_and_Naive_Bayes__Assignment_4
+## /Supervised_Classification_Decision_Trees,_SVM,_and_Naive_Bayes__Assignment_4
 
 
-# Ensemble Learning | Assignmen_5
+## Ensemble Learning | Assignmen_5
 
-# Boosting_Techniques___Assignment_6
+## Boosting_Techniques___Assignment_6
 
-# KNN_&_PCA___Assignment_7
+## KNN_&_PCA___Assignment_7
 
-# Clustering___Assignment_8
+## Clustering___Assignment_8
